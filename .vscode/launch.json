@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Start External Program",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "C:/dev/ML-testing/test.exe",
+            "console": "externalTerminal",
+            "cwd": "C:/dev/ML-testing/",
+            //"args" : [ "optional arguments", "each argument is enclosed in quotes", "separated by commas" ],
+            //"preLaunchTask": "optional name of pre launch build task",
+        }
+    ]
+}
